@@ -1,0 +1,4 @@
+.v-head{background:#ccc;box-shadow: 0 0 10px #000}
+.v-head ul li{float: left; line-height: 50px;}
+.v-head ul li a{color: white;padding: 0 15px;transition: all 0.3s;display: block;}
+.v-head ul li a:hover{color: #3fc371;background-color:#000; }
